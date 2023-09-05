@@ -1,0 +1,39 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa;
+  }
+
+  .navbar-brand {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+
+  .container {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+
+  main h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+
+  article {
+    margin-bottom: 40px;
+  }
+
+  aside h2 {
+    margin-top: 0;
+  }
+
+  footer {
+    padding: 20px 0;
+    text-align: center;
+  }
