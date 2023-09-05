@@ -27,7 +27,7 @@ La página HTML utiliza Bootstrap para crear una estructura de mini blog respons
 
 Se utiliza Bootstrap 5 para estilizar y dar funcionalidad a la plantilla. Puedes personalizar y extender esta plantilla según tus necesidades específicas.
 
-### Lin Pagina Web:
+### Lin Pagina Web: https://juancitopena.github.io/SESTO_PROYECTO_TIPO_PLANTILLA_MINI_BLOG_HTML5_Y_CSS3_CON_BOOTSTRAP/
 
 ## Cómo Usar
 
